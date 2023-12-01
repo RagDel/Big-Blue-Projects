@@ -2,6 +2,7 @@
 Semi-Simplified presentations of our work to business supervisors
 
 Co-operated with co-learners Marios Gravias & Konstantinos Chalepas
+
 Our combined branches achieved actionable insights.
 
 Most of our thinking process and algorithms used with ML and Clustering 
